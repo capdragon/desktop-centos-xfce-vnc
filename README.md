@@ -1,0 +1,1 @@
+# desktop-centos-xfce-vnc
